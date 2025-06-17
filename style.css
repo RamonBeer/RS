@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(205, 160, 235);
+    color: blueviolet;
+}
+
+p {
+    justify-content: center;
+    align-items: center;
+    display: block;
+}
+
+div {
+    display: flex;
+}
